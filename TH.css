@@ -1,0 +1,31 @@
+ul.a {
+  list-style-type: circle;
+}
+ul.b {
+  list-style-type: square;
+}
+ul.c {
+  list-style-img: url("http://agilearn.vn/draftfile.php/263/user/draft/510120718/bullet_red%20_2.png");
+}
+.d {
+  list-style-position: inside;
+}
+.e {
+  list-style-position: outside;
+}
+.f {
+  list-style: square inside
+    url("http://agilearn.vn/draftfile.php/263/user/draft/510120718/bullet_red%20_2.png");
+}
+.a {
+  background: crimson;
+  padding: 0 10px;
+}
+.b {
+  background: rgb(61, 30, 36);
+  padding: 0 10px;
+}
+.d {
+  background: yellowgreen;
+  padding: 10px;
+}
